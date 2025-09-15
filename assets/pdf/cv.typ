@@ -74,7 +74,7 @@
 
 
 #section([Research])[
-  + Yixin Cao, #strong[Yiren Lu], Junhong Nie, Xiaoming Sun, Guojing Tian. Toward Minimum Graphic Parity Networks. #emph[arXiv preprint arXiv:2509.00000], 2025. (#link("https://yiren.lu/assets/pdf/parity-network-synthesis.pdf")[pdf])
+  + Yixin Cao, #strong[Yiren Lu], Junhong Nie, Xiaoming Sun, Guojing Tian. Toward Minimum Graphic Parity Networks. #emph[arXiv preprint arXiv:2509.10070], 2025. (#link("https://yiren.lu/assets/pdf/parity-network-synthesis.pdf")[pdf])
   + #strong[Yiren Lu], Guojing Tian, Xiaoming Sun. QAOA with fewer qubits: a coupling framework to solve larger-scale Max-Cut problem. #emph[arXiv preprint arXiv:2307.15260], 2023. (#link("https://yiren.lu/assets/pdf/qaoa-with-fewer-qubits.pdf")[pdf])
 ]
 
